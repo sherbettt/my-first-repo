@@ -22,9 +22,10 @@ This is
 a block
 of code
 ```
+([Gymkhana!](https://www.youtube.com/watch?v=gEDWVM7fYKk&t=102s))
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
-nano README.md
+vim forever. README.md
