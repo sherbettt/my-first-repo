@@ -1,31 +1,27 @@
-# This is a large heading
+# Kyryll 
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live na VAYAH, believe me, strah is un-izvesten.
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+### Reading
 
-Here is `some code` in the middle of a sentence.
+Two of my favorite books are:
 
-```
-This is
-a block
-of code
-```
+- *First book* by Second book
+- *Bismark* by Prinz Oigen
+- *V2A10* by Unkown engineer
+
+### Dream?...
+
+Comrade commissar, why should we throw potatoes?
+
+1. Kapusta
+2. Kartoha
+3. Ramonskaya sviyokla
+
+
 ([Gymkhana!](https://www.youtube.com/watch?v=gEDWVM7fYKk&t=102s))
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
 vim forever. README.md
