@@ -9,9 +9,9 @@ I live na VAYAH, believe me, strah is un-izvesten.
 
 Two of my favorite books are:
 
-- *Salo uronily* by Nezalezhna
-- *Ushat Pomoev* by Pidriv Ustoev
-- *Ona utonula* by Hm, I don't want to say his name
+- *First book* by Second book
+- *Bismark* by Prinz Oigen
+- *V2A10* by Unkown engineer
 
 ### Dream?...
 
